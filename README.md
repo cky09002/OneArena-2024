@@ -1,6 +1,6 @@
 
 
-# **Projects Overview**
+# **Project Overview**
 
 **DJI Robomaster Maze Coding**: A robotics coding project, creating a robotic maze-solving algorithm for OneArena 2024, a Sinagapore National Competition for secondary school student using the DJI Robomaster app with DSP-based code and custom hardware elements to cultivate their robotic automation mindset.
 
